@@ -17,6 +17,7 @@ Sou estudante de **Engenharia de Software na UDF** e estou construindo minha exp
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff4da6" alt="Python" />
+<img src="https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff4da6" alt="CSS" />
 <img src="https://img.shields.io/badge/HTML-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff4da6" alt="HTML" />
 <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff4da6" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff4da6" alt="GitHub" />

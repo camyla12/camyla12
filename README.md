@@ -30,12 +30,7 @@ Sou estudante de **Engenharia de Software na UDF** e estou construindo minha exp
 - 💗 Aprender novas tecnologias
 - 🖤 Crescer profissionalmente na área de tecnologia
 
-## 📊 Estatísticas
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camyla12&show_icons=true&bg_color=0d0d0d&title_color=ff4da6&text_color=ffffff&icon_color=ff69b4&border_color=ff4da6&border_radius=12" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camyla12&layout=compact&bg_color=0d0d0d&title_color=ff4da6&text_color=ffffff&border_color=ff4da6&border_radius=12" alt="Linguagens mais usadas" />
 
 </div>
 

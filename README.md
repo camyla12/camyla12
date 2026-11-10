@@ -12,7 +12,7 @@
 
 Sou estudante de **Engenharia de Software na UDF** e estou construindo minha experiência na área de desenvolvimento. Tenho conhecimentos básicos, em nível acadêmico, nas linguagens e tecnologias abaixo, e sigo evoluindo a cada projeto.
 
-## 🖤 Tecnologias que estou estudando
+## ■ Tecnologias que estou estudando
 
 <div align="center">
 
@@ -23,18 +23,18 @@ Sou estudante de **Engenharia de Software na UDF** e estou construindo minha exp
 
 </div>
 
-## 🎯 Objetivos
+## ■ Objetivos
 
-- 💗 Aprimorar meus conhecimentos em programação
-- 🖤 Desenvolver projetos acadêmicos e pessoais
-- 💗 Aprender novas tecnologias
-- 🖤 Crescer profissionalmente na área de tecnologia
+-  Aprimorar meus conhecimentos em programação
+-  Desenvolver projetos acadêmicos e pessoais
+-  Aprender novas tecnologias
+-  Crescer profissionalmente na área de tecnologia
 
 
 
 </div>
 
-## 🐍 Contribuições
+## ■ Contribuições
 
 <div align="center">
 
@@ -46,19 +46,8 @@ Sou estudante de **Engenharia de Software na UDF** e estou construindo minha exp
 
 </div>
 
-## 📬 Contato
-
-<div align="center">
-
-<a href="https://github.com/camyla12">
-  <img src="https://img.shields.io/badge/GitHub-camyla12-0d0d0d?style=for-the-badge&logo=github&logoColor=ff4da6" alt="GitHub" />
-</a>
-<a href="https://instagram.com/camyla_.almeida">
-  <img src="https://img.shields.io/badge/Instagram-camyla__.almeida-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff4da6" alt="Instagram" />
-</a>
+■ Contato
+<div align="center"> <a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/E--mail-camylaalmida.12%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4da6&labelColor=0d0d0d" alt="E-mail" /> </a> <a href="https://wa.me/5561981518955"> <img src="https://img.shields.io/badge/Telefone-(61)%2098151--8955-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=ff4da6&labelColor=0d0d0d" alt="Telefone" /> </a> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,100:0d0d0d&height=100&section=footer" alt="Footer" /> </div>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,100:0d0d0d&height=100&section=footer" alt="Footer" />
-
-</div>
